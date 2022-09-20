@@ -1,0 +1,14 @@
+{
+  "name": "UFATHAI",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ufathai ทางเข้า แทงบอลฟรีเครดิต 100 บาท เปิดให้เล่น 24 ชั่วโมง",
+  "keywords": [
+    "แทงบอล ฟรีเครดิต2022"
+  ],
+  "repository": "https://github.com/luckysucky55/UFATHAI",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
